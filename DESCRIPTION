@@ -1,0 +1,20 @@
+Package: BSGenome.Dsimulans.NCBI.3.1.fa
+Title: Full genome sequences for Drosophila simulans (NCBI v. 3.1)
+Description: Drosophila simulans full genome sequences (V3.1, Oct. 2021)
+Version: 3.1
+Author: Taiya Jarva
+Maintainer: Taiya Jarva <t.m.jarva13@gmail.com>
+Depends: R (>= 3.5.0), BSgenome (>= 1.58.0)
+Imports: BSgenome
+Suggests:
+License: Artistic-2.0
+organism: Drosophila simulans
+common_name: D.simulans
+genome: GCF_016746395.2
+provider: NCBI
+release_date: 10/2021
+source_url: https://www.ncbi.nlm.nih.gov/assembly/GCF_016746395.2
+biocViews: AnnotationData, Genetics, BSgenome, Drosophila_simulans
+NeedsCompilation: no
+Packaged: 2022-03-25 03:55:11 UTC; tjarva
+Built: R 4.0.4; ; 2022-03-25 04:05:13 UTC; windows
